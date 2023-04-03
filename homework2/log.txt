@@ -1,0 +1,26 @@
+апр. 03, 2023 8:09:27 PM homework2.task2 sort
+INFO: Сортировка пузырьком
+апр. 03, 2023 8:09:27 PM homework2.task2 sort
+INFO: Поменяли местами 4 и 235
+апр. 03, 2023 8:09:27 PM homework2.task2 sort
+INFO: Поменяли местами 4 и 63
+апр. 03, 2023 8:09:27 PM homework2.task2 sort
+INFO: Поменяли местами 4 и 543
+апр. 03, 2023 8:09:27 PM homework2.task2 sort
+INFO: Поменяли местами 4 и 5
+апр. 03, 2023 8:09:27 PM homework2.task2 sort
+INFO: Поменяли местами 23 и 235
+апр. 03, 2023 8:09:27 PM homework2.task2 sort
+INFO: Поменяли местами 23 и 63
+апр. 03, 2023 8:09:27 PM homework2.task2 sort
+INFO: Поменяли местами 23 и 543
+апр. 03, 2023 8:09:27 PM homework2.task2 sort
+INFO: Поменяли местами 54 и 235
+апр. 03, 2023 8:09:27 PM homework2.task2 sort
+INFO: Поменяли местами 54 и 63
+апр. 03, 2023 8:09:27 PM homework2.task2 sort
+INFO: Поменяли местами 54 и 543
+апр. 03, 2023 8:09:27 PM homework2.task2 sort
+INFO: Поменяли местами 63 и 543
+апр. 03, 2023 8:09:27 PM homework2.task2 sort
+INFO: Поменяли местами 235 и 543
